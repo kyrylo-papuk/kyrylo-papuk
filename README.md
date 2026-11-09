@@ -69,7 +69,7 @@ Virtual data room for due diligence: Google Drive import, protected share links,
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/kyrylo-papuk/VoltDesk"><img src="https://raw.githubusercontent.com/kyrylo-papuk/VoltDesk/main/docs/screenshots/demo.gif" alt="VoltDesk walkthrough" /></a>
+<a href="https://github.com/kyrylo-papuk/VoltDesk"><img src="https://raw.githubusercontent.com/kyrylo-papuk/VoltDesk/main/docs/banner.png" alt="VoltDesk: CRM, task board and electrical panel schedules" /></a>
 
 #### [VoltDesk](https://github.com/kyrylo-papuk/VoltDesk)
 Internal CRM, task board and electrical panel schedules for an engineering design studio: load calculation and automatic phase balancing (**90% → 7%** imbalance), Google Drive, Calendar and Sheets sync. **105 automated tests.**
