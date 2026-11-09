@@ -45,78 +45,78 @@ class Kyrylo:
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://retroloop-one.vercel.app"><img src="https://raw.githubusercontent.com/Kotoliji/retroloop/main/docs/screenshots/discuss.png" alt="Retroloop board" /></a>
+<a href="https://retroloop-one.vercel.app"><img src="https://raw.githubusercontent.com/kyrylo-papuk/retroloop/main/docs/screenshots/discuss.png" alt="Retroloop board" /></a>
 
-#### [Retroloop](https://github.com/Kotoliji/retroloop)
+#### [Retroloop](https://github.com/kyrylo-papuk/retroloop)
 Real-time sprint retrospectives where action items get an owner and a follow-up. Load-tested with 500 people on two instances: **21 ms p50 / 130 ms p95**.
 
 <sub>Next.js · React · Fastify · Socket.IO · PostgreSQL · Redis · Playwright</sub><br>
-<a href="https://retroloop-one.vercel.app">🔗 Live demo</a> · <a href="https://github.com/Kotoliji/retroloop">💻 Code</a>
+<a href="https://retroloop-one.vercel.app">🔗 Live demo</a> · <a href="https://github.com/kyrylo-papuk/retroloop">💻 Code</a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://data-room-ork2.onrender.com"><img src="https://raw.githubusercontent.com/Kotoliji/Data-Room/main/docs/screenshots/02-data-room.png" alt="Data-Room" /></a>
+<a href="https://data-room-ork2.onrender.com"><img src="https://raw.githubusercontent.com/kyrylo-papuk/Data-Room/main/docs/screenshots/02-data-room.png" alt="Data-Room" /></a>
 
-#### [Data-Room](https://github.com/Kotoliji/Data-Room)
+#### [Data-Room](https://github.com/kyrylo-papuk/Data-Room)
 Virtual data room for due diligence: Google Drive import, protected share links, page-level viewer analytics and AI-drafted answers with verified citations. **72 backend tests.**
 
 <sub>React · TypeScript · Flask · SQLAlchemy · PostgreSQL · Claude API · Docker</sub><br>
-<a href="https://data-room-ork2.onrender.com">🔗 Live demo</a> · <a href="https://github.com/Kotoliji/Data-Room">💻 Code</a>
+<a href="https://data-room-ork2.onrender.com">🔗 Live demo</a> · <a href="https://github.com/kyrylo-papuk/Data-Room">💻 Code</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://sadovyi-centr.sadovyi-centr-api.workers.dev"><img src="https://raw.githubusercontent.com/Kotoliji/sadovyi-centr/main/docs/screenshots/site-home.jpg" alt="Garden centre shop" /></a>
+<a href="https://sadovyi-centr.sadovyi-centr-api.workers.dev"><img src="https://raw.githubusercontent.com/kyrylo-papuk/sadovyi-centr/main/docs/screenshots/site-home.jpg" alt="Garden centre shop" /></a>
 
-#### [Garden Centre Shop](https://github.com/Kotoliji/sadovyi-centr)
+#### [Garden Centre Shop](https://github.com/kyrylo-papuk/sadovyi-centr)
 Online plant shop for a family nursery: catalogue, cart and orders, plus a dashboard where the owner manages orders, prices and photos from her phone.
 
 <sub>JavaScript · Cloudflare Workers · D1 (SQLite) · Telegram Bot API</sub><br>
-<a href="https://sadovyi-centr.sadovyi-centr-api.workers.dev">🔗 Live site</a> · <a href="https://github.com/Kotoliji/sadovyi-centr">💻 Code</a>
+<a href="https://sadovyi-centr.sadovyi-centr-api.workers.dev">🔗 Live site</a> · <a href="https://github.com/kyrylo-papuk/sadovyi-centr">💻 Code</a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Kotoliji/GoAWAY"><img src="https://raw.githubusercontent.com/Kotoliji/GoAWAY/main/docs/screenshots/live-map.gif" alt="GoAWAY live map" /></a>
+<a href="https://github.com/kyrylo-papuk/GoAWAY"><img src="https://raw.githubusercontent.com/kyrylo-papuk/GoAWAY/main/docs/screenshots/live-map.gif" alt="GoAWAY live map" /></a>
 
-#### [GoAWAY](https://github.com/Kotoliji/GoAWAY)
+#### [GoAWAY](https://github.com/kyrylo-papuk/GoAWAY)
 Ride-hailing platform built in a team of two: mobile app, API, live driver locations and a 14-table Oracle schema. I led the architecture.
 
 <sub>React Native · Expo · Express · TypeScript · Socket.IO · Oracle</sub><br>
-<a href="https://github.com/Kotoliji/GoAWAY">💻 Code</a>
+<a href="https://github.com/kyrylo-papuk/GoAWAY">💻 Code</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Kotoliji/knowledge-copilot"><img src="https://raw.githubusercontent.com/Kotoliji/knowledge-copilot/main/docs/ui-demo.png" alt="Knowledge Copilot" /></a>
+<a href="https://github.com/kyrylo-papuk/knowledge-copilot"><img src="https://raw.githubusercontent.com/kyrylo-papuk/knowledge-copilot/main/docs/ui-demo.png" alt="Knowledge Copilot" /></a>
 
-#### [Knowledge Copilot](https://github.com/Kotoliji/knowledge-copilot)
+#### [Knowledge Copilot](https://github.com/kyrylo-papuk/knowledge-copilot)
 RAG and tool-calling API with cited answers, explicit refusals and offline evaluation gates. **57 offline tests**, Prometheus and Grafana.
 
 <sub>Python · FastAPI · Qdrant · OpenAI / Azure / Ollama · Docker</sub><br>
-<a href="https://github.com/Kotoliji/knowledge-copilot">💻 Code</a>
+<a href="https://github.com/kyrylo-papuk/knowledge-copilot">💻 Code</a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Kotoliji/knowledge-copilot-desktop"><img src="https://raw.githubusercontent.com/Kotoliji/knowledge-copilot-desktop/main/docs/screenshots/ask.png" alt="Knowledge Copilot Desktop" /></a>
+<a href="https://github.com/kyrylo-papuk/knowledge-copilot-desktop"><img src="https://raw.githubusercontent.com/kyrylo-papuk/knowledge-copilot-desktop/main/docs/screenshots/ask.png" alt="Knowledge Copilot Desktop" /></a>
 
-#### [Knowledge Copilot Desktop](https://github.com/Kotoliji/knowledge-copilot-desktop)
+#### [Knowledge Copilot Desktop](https://github.com/kyrylo-papuk/knowledge-copilot-desktop)
 Native Linux client for Knowledge Copilot: network calls on worker threads, cited answers and a source view.
 
 <sub>C++20 · GTKmm4 · CMake · libcurl · Catch2</sub><br>
-<a href="https://github.com/Kotoliji/knowledge-copilot-desktop">💻 Code</a>
+<a href="https://github.com/kyrylo-papuk/knowledge-copilot-desktop">💻 Code</a>
 
 </td>
 </tr>
 </table>
 
-**More:** [Agentic Knowledge Pipeline](https://github.com/Kotoliji/agentic-knowledge-pipeline), document Q&A with a LangGraph agent, gRPC retrieval and NATS ingestion · [Big-Design](https://big-design.vercel.app), a Vue 3 client website · [Job Application Tracker](https://github.com/Kotoliji/job-application-tracker) on Rails · [Sidekick](https://github.com/Kotoliji/sidekick-desk), a desktop companion for coding-assistant sessions (in progress)
+**More:** [Agentic Knowledge Pipeline](https://github.com/kyrylo-papuk/agentic-knowledge-pipeline), document Q&A with a LangGraph agent, gRPC retrieval and NATS ingestion · [Big-Design](https://big-design.vercel.app), a Vue 3 client website · [Job Application Tracker](https://github.com/kyrylo-papuk/job-application-tracker) on Rails · [Sidekick](https://github.com/kyrylo-papuk/sidekick-desk), a desktop companion for coding-assistant sessions (in progress)
 
 ---
 
