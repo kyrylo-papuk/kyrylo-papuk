@@ -69,13 +69,13 @@ Virtual data room for due diligence: Google Drive import, protected share links,
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://sadovyi-centr.sadovyi-centr-api.workers.dev"><img src="https://raw.githubusercontent.com/kyrylo-papuk/sadovyi-centr/main/docs/screenshots/site-home.jpg" alt="Garden centre shop" /></a>
+<a href="https://github.com/kyrylo-papuk/VoltDesk"><img src="https://raw.githubusercontent.com/kyrylo-papuk/VoltDesk/main/docs/screenshots/demo.gif" alt="VoltDesk walkthrough" /></a>
 
-#### [Garden Centre Shop](https://github.com/kyrylo-papuk/sadovyi-centr)
-Online plant shop for a family nursery: catalogue, cart and orders, plus a dashboard where the owner manages orders, prices and photos from her phone.
+#### [VoltDesk](https://github.com/kyrylo-papuk/VoltDesk)
+Internal CRM, task board and electrical panel schedules for an engineering design studio: load calculation and automatic phase balancing (**90% → 7%** imbalance), Google Drive, Calendar and Sheets sync. **105 automated tests.**
 
-<sub>JavaScript · Cloudflare Workers · D1 (SQLite) · Telegram Bot API</sub><br>
-<a href="https://sadovyi-centr.sadovyi-centr-api.workers.dev">🔗 Live site</a> · <a href="https://github.com/kyrylo-papuk/sadovyi-centr">💻 Code</a>
+<sub>C# · .NET 10 · WPF · ASP.NET Core · EF Core · SQL Server · Docker</sub><br>
+<a href="https://github.com/kyrylo-papuk/VoltDesk">💻 Code</a>
 
 </td>
 <td width="50%" valign="top">
@@ -116,7 +116,7 @@ Native Linux client for Knowledge Copilot: network calls on worker threads, cite
 </tr>
 </table>
 
-**More:** [Agentic Knowledge Pipeline](https://github.com/kyrylo-papuk/agentic-knowledge-pipeline), document Q&A with a LangGraph agent, gRPC retrieval and NATS ingestion · [Big-Design](https://big-design.vercel.app), a Vue 3 client website · [Job Application Tracker](https://github.com/kyrylo-papuk/job-application-tracker) on Rails · [Sidekick](https://github.com/kyrylo-papuk/sidekick-desk), a desktop companion for coding-assistant sessions (in progress)
+**More:** [Garden Centre Shop](https://sadovyi-centr.sadovyi-centr-api.workers.dev), a live plant shop with an owner dashboard on Cloudflare Workers · [Agentic Knowledge Pipeline](https://github.com/kyrylo-papuk/agentic-knowledge-pipeline), document Q&A with a LangGraph agent, gRPC retrieval and NATS ingestion · [Big-Design](https://big-design.vercel.app), a Vue 3 client website · [Job Application Tracker](https://github.com/kyrylo-papuk/job-application-tracker) on Rails · [Sidekick](https://github.com/kyrylo-papuk/sidekick-desk), a desktop companion for coding-assistant sessions (in progress)
 
 ---
 
@@ -128,7 +128,7 @@ Native Linux client for Knowledge Copilot: network calls on worker threads, cite
 </p>
 <p>
   <b>Backend and data</b><br>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,postgres,redis,prisma,sqlite" alt="Python, FastAPI, Flask, Node.js, PostgreSQL, Redis, Prisma, SQLite" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,cs,dotnet,postgres,redis,prisma,sqlite" alt="Python, FastAPI, Flask, Node.js, C#, .NET, PostgreSQL, Redis, Prisma, SQLite" />
 </p>
 <p>
   <b>Delivery and quality</b><br>
