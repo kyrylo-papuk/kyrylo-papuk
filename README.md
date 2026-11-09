@@ -30,9 +30,11 @@ class Kyrylo:
 
 - ⚡ Took live card delivery in a WebSocket app from **692 ms to 130 ms** (p95) for **500 users** on two servers
 - 🏢 Freelance and contract work for international clients since 2022, including US legal-tech under NDA
+- 🌐 The client websites I built have reached **10,000+ users** combined
 - 🛒 Shipped a live online shop with an owner dashboard on Cloudflare Workers and D1
-- 🤖 Build RAG and agent systems that are tested and evaluated, not only demoed
-- 🏆 JunctionX Lisbon 2026: 2nd place in the NOS challenge
+- 🤖 Built AI assistants for company teams at Agromat: a voice assistant with speech recognition and LLM answers, plus NLP modules for internal messaging
+- 🧠 Build RAG and agent systems that are tested and evaluated, not only demoed
+- 🏆 **1st place**, Start Smart IT 2024 (Kyiv) · **2nd place**, NOS challenge at JunctionX Lisbon 2026
 - 🎓 BSc with Honours in Computer Science (AI), Erasmus+ at ISEC Coimbra
 
 ---
