@@ -80,13 +80,13 @@ Internal CRM, task board and electrical panel schedules for an engineering desig
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/kyrylo-papuk/GoAWAY"><img src="https://raw.githubusercontent.com/kyrylo-papuk/GoAWAY/main/docs/screenshots/live-map.gif" alt="GoAWAY live map" /></a>
+<a href="https://github.com/kyrylo-papuk/knowledge-copilot-desktop"><img src="https://raw.githubusercontent.com/kyrylo-papuk/knowledge-copilot-desktop/main/docs/screenshots/ask.png" alt="Knowledge Copilot Desktop" /></a>
 
-#### [GoAWAY](https://github.com/kyrylo-papuk/GoAWAY)
-Ride-hailing platform built in a team of two: mobile app, API, live driver locations and a 14-table Oracle schema. I led the architecture.
+#### [Knowledge Copilot Desktop](https://github.com/kyrylo-papuk/knowledge-copilot-desktop)
+Native Linux client for Knowledge Copilot: network calls on worker threads, cited answers and a source view.
 
-<sub>React Native · Expo · Express · TypeScript · Socket.IO · Oracle</sub><br>
-<a href="https://github.com/kyrylo-papuk/GoAWAY">💻 Code</a>
+<sub>C++20 · GTKmm4 · CMake · libcurl · Catch2</sub><br>
+<a href="https://github.com/kyrylo-papuk/knowledge-copilot-desktop">💻 Code</a>
 
 </td>
 </tr>
@@ -104,13 +104,13 @@ RAG and tool-calling API with cited answers, explicit refusals and offline evalu
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/kyrylo-papuk/knowledge-copilot-desktop"><img src="https://raw.githubusercontent.com/kyrylo-papuk/knowledge-copilot-desktop/main/docs/screenshots/ask.png" alt="Knowledge Copilot Desktop" /></a>
+<p align="center"><a href="https://github.com/kyrylo-papuk/GoAWAY"><img src="https://raw.githubusercontent.com/kyrylo-papuk/GoAWAY/main/docs/screenshots/live-map.gif" alt="GoAWAY live map" width="76%" /></a></p>
 
-#### [Knowledge Copilot Desktop](https://github.com/kyrylo-papuk/knowledge-copilot-desktop)
-Native Linux client for Knowledge Copilot: network calls on worker threads, cited answers and a source view.
+#### [GoAWAY](https://github.com/kyrylo-papuk/GoAWAY)
+Ride-hailing platform built in a team of two: mobile app, API, live driver locations and a 14-table Oracle schema. I led the architecture.
 
-<sub>C++20 · GTKmm4 · CMake · libcurl · Catch2</sub><br>
-<a href="https://github.com/kyrylo-papuk/knowledge-copilot-desktop">💻 Code</a>
+<sub>React Native · Expo · Express · TypeScript · Socket.IO · Oracle</sub><br>
+<a href="https://github.com/kyrylo-papuk/GoAWAY">💻 Code</a>
 
 </td>
 </tr>
